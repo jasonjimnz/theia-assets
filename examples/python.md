@@ -26,6 +26,6 @@ pip install ipython
 ipython
 ```
 
-Now you're ready to work with your Theia cloud based IDE inside a docker container, theia user has sudo access and the password is theia in case you need it.
+Now you're ready to work with your Theia cloud based IDE inside a docker container, you're running as root user
 
 Feel free to do anything in the Alpine container.
